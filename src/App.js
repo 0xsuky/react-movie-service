@@ -17,7 +17,15 @@ class App extends React.Component {
     }));
   };
 
+  componentDidMount() {
+    console.log('Component rendered');
+  }
+  componentDidUpdate() {
+    console.log('I just updated');
+  }
+
   render() {
+    console.log("I'm rendering");
     return (
       <div>
         <h1>Ths number is: {this.state.count}</h1>
