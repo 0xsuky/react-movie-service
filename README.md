@@ -7,3 +7,4 @@ https://0xsuky.github.io/react-movie-service/
 ## 기록
 
 시작: 2021. 10. 09
+끝: 2021. 10. 10
